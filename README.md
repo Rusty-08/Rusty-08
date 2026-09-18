@@ -4,7 +4,6 @@
 
 - :seedling: Frontend Developer
 - :computer: I’m currently using and learning NextJS and Typescript
-- :technologist: I am currently looking for an entry level job for frontend role using React or NextJS
 - :speech_balloon: Feel free to [**reach me out**](#connect-with-me)
 
 <hr>
